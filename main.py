@@ -7,16 +7,6 @@ datapackpath = input("File Path> ")
 datapackname = input("Name> ")
 datapackversion = int(input("Version> "))
 datapackdescription = input("Description> ")
-#datapackmaterial = input("Material> ")
-#datapackbasematerial = input("Base> ")
-#maxhealth = int(input("Health Modifier> "))
-#knockbackresistance = int(input("Knockback Modifier> "))
-#movementspeed = int(input("Speed Modifier> "))
-#attackdamage = int(input("Damage Modifier> "))
-#armor = int(input("Armor Modifier> "))
-#armortoughness = int(input("Armor Toughness Modifier> "))
-#attackspeed = int(input("Attack Speed Modifier> "))
-#luck = int(input("Luck Modifier> "))
 
 
 #modifies the path to remove in text quotes
